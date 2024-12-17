@@ -33,4 +33,4 @@ Step 3: Restart your computer.
 
 If want to enable the “Show more options” menu in Windows 11, you can enter the following command in Command Prompt and restart your PC.
 
-reg delete “HKEY_CURRENT_USER\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}” /f
+reg delete ***“HKEY_CURRENT_USER\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}” /f***
