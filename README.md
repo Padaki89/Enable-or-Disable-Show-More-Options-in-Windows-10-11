@@ -1,4 +1,4 @@
-# Enable or Disable Show More Options in Windows-10-11
+# Enable or Disable Show More Options in Windows 10 & 11
 There are two different easy ways to disable the new context menu and get back to the old classic context menu of Windows 10 in Windows 11. Will introduce how to disable Show More Options on Windows 10 & 11. Windows 11 brings an all-new user interface with a greater focus on simplicity. It offers a clean and fresh design. One of the most subtle changes to Windows 11 concerns the new modern right-click or context menus for File Explorer and the desktop. To enable show more options Windows 11, you need to right-click your desktop and choose Show more options or press the Shift + F10 keys together.
 
 # Way 1: Via Registry Editor
