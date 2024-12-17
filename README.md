@@ -18,7 +18,7 @@ Step 5: Double-click the newly created key and change the value data to 1 and cl
 
 Step 6: Please remember to restart your PC to make the changes take effect.
 
-​If you decide to enable the “Show More Options” menu again, you need to repeat the same steps and expand the CLSID key. Then, right-click the UndockingDisabled key and select Delete. When the confirmation pop-up appears, Select Yes.
+If you decide to enable the “Show More Options” menu again, you need to repeat the same steps and expand the CLSID key. Then, right-click the UndockingDisabled key and select Delete. When the confirmation pop-up appears, Select Yes.
 
 Way 2: Via Command Prompt
 The second method for you to disable show more options Windows 11 is via Command Prompt.
