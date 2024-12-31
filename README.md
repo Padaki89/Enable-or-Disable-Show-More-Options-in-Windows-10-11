@@ -38,3 +38,5 @@ If want to enable the “Show more options” menu in Windows 11, you can enter 
 reg delete
 
     “HKEY_CURRENT_USER\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}” /f
+
+<p align="center">Support Made with Trust ❤️</p>
